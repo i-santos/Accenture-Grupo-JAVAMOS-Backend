@@ -53,4 +53,4 @@ No dia 4, tivemos o conhecimento que a aplicação de front-end seria feito por 
 
 ## License
 
-MIT © [Rocketseat](https://github.com/Rocketseat)
+[MIT ©](https://github.com/rabreu/Accenture-Grupo-JAVAMOS-Backend/blob/main/LICENSE)
